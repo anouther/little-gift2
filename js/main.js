@@ -21,7 +21,7 @@
           } else {
             // Setelah teks utama selesai, tambahkan subtitle kecil
             const subtitle = document.createElement('p');
-            subtitle.innerText = "Each moment we've shared is truly a gift. You bring laughter, love, and comfort into my life. You're my inspiration, my anchor, my comfort, my sunshine, and my everything. You are my home, my love, my world.";
+            subtitle.innerText = "Ojos, my heart beats for you alone, In your eyes, a world I've never known. Your smile, a light that guides my way, In your arms, I wish to stay. Your charm, a quiet song I hear, Your love, a warmth I hold so near. Forever yours, my sweet delight, With you, my world is always bright.";
             subtitle.style.fontSize = '20px'; // Ukuran font lebih kecil
             subtitle.style.marginTop = '2px'; // Spasi antara teks utama dan subtitle
             subtitle.style.color = '#fff'; // Warna abu-abu untuk teks subtitle
