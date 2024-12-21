@@ -21,7 +21,7 @@
           } else {
             // Setelah teks utama selesai, tambahkan subtitle kecil
             const subtitle = document.createElement('p');
-            subtitle.innerText = "Ojos, my heart beats for you alone, In your eyes, a world I've never known. Your smile, a light that guides my way, In your arms, I wish to stay. Your charm, a quiet song I hear, Your love, a warmth I hold so near. Forever yours, my sweet delight, With you, my world is always bright.";
+            subtitle.innerText = "Happy mensive buat yang kedua kali, sayang. I have a lil reminder for you, jae. I love you soo much, so that means im not just here for the pretty parts and happy days, im here for the rough times and bad days too. I’ll be always here, no matter what.";
             subtitle.style.fontSize = '20px'; // Ukuran font lebih kecil
             subtitle.style.marginTop = '2px'; // Spasi antara teks utama dan subtitle
             subtitle.style.color = '#fff'; // Warna abu-abu untuk teks subtitle
